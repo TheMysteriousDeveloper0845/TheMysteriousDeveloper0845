@@ -16,7 +16,7 @@ R65 ks3 cke3t 7iibq eswgx ui sv6rzg2c.
 
 ## Apps
 
-<a href="https://github.com/deriveitCreator/desktopBuddy">
+<a href="https://github.com/TheMysteriousDeveloper0845/desktopBuddy">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bumblebee_white_eyes_clipart.svg" alt="" height="100" style="image-rendering: pixelated;"/><br/>Desktop Buddy
 </a>
 
