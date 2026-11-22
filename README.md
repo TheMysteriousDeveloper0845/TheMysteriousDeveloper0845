@@ -23,5 +23,7 @@ R65 ks3 cke3t 7iibq eswgx ui sv6rzg2c.
 <br/>
 <br/>
 
-If you would like to give any advise, feel free to message me at contact.mysteriousdeveloper@gmail.com.
+If you would like to give any advice, feel free to message me at contact.mysteriousdeveloper@gmail.com.
+
+If you like the things I make, feel free to donate: https://ko-fi.com/TheMysteriousDeveloper.
 
