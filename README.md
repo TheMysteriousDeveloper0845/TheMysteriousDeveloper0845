@@ -25,5 +25,5 @@ R65 ks3 cke3t 7iibq eswgx ui sv6rzg2c.
 
 If you would like to give any advice, feel free to message me at contact.mysteriousdeveloper@gmail.com.
 
-If you like the things I make, feel free to donate: &nbsp;<img alt="ko-fi" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01229bf8a18f97a3c1_favion.avif" height="12"/> https://ko-fi.com/TheMysteriousDeveloper.
+If you like the things I make, feel free to donate: &nbsp;<img alt="ko-fi" src="kofi_symbol.png" height="12"/> https://ko-fi.com/TheMysteriousDeveloper.
 
