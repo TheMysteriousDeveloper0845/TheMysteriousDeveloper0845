@@ -6,20 +6,24 @@ R65 ks3 cke3t 7iibq eswgx ui sv6rzg2c.
 
 ## Websites
 <a href="https://www.deriveit.net">
-  <img src="https://www.deriveit.net/favicon.ico" alt="" height="100"/><br/>deriveit
+  <img src="https://www.deriveit.net/favicon.ico" alt="" height="100"/> deriveit
 </a>
 <br/>
 <br/>
 <a href="https://siliconbits.onrender.com">
-  <img src="siliconBitsIcon.png" alt="" height="100" style="image-rendering: pixelated;"/><br/>SiliconBits
+  <img src="siliconBitsIcon.png" alt="" height="100" style="image-rendering: pixelated;"/> SiliconBits
 </a>
 
 ## Apps
 
 <a href="https://github.com/TheMysteriousDeveloper0845/desktopBuddy">
-  <img src="bee.png" alt="" height="100" style="image-rendering: pixelated;"/><br/>Desktop Buddy
+  <img src="bee.png" alt="" height="100" style="image-rendering: pixelated;"/> Desktop Buddy
 </a>
 <br/>
+<br/>
+<a href="https://github.com/TheMysteriousDeveloper0845/LanStream">
+  <img src="https://github.com/TheMysteriousDeveloper0845/LanStream/blob/main/favicon_apple.png" alt="" height="100" style="image-rendering: pixelated;"/> Lan Stream
+</a>
 <br/>
 <br/>
 
